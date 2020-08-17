@@ -81,6 +81,21 @@ h3 {
   margin-top: auto;
 }
 
+.left-content .contactList {
+  margin-top: auto;
+  display: flex;
+  align-self: flex-end;
+}
+
+.left-content .contactList a {
+  margin-left: 16px;
+}
+
+.left-content .contactList img {
+  width: 30px;
+  height: 30px;
+}
+
 .right-content .portfolio-project {
   height: 100vh;
   background-color: #06c5df;
